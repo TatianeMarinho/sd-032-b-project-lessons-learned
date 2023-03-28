@@ -67,7 +67,7 @@ img {
     color: #9a208c;
 }
 
-article .lado-esquerdo p {
+article p {
     padding: 2%;
     text-align: justify;
     font-size: larger;
@@ -97,7 +97,7 @@ table tr:nth-child(odd) {
     background-color: #f5c6ec;
 }
 
-aside .lado-direito {
+aside {
     float: right;
     display: block;
     width: 15%;
